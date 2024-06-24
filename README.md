@@ -44,4 +44,4 @@ This file configures ESLint with settings for browser, ES6, and Jest environment
 
 ## Final Steps
 
-Don’t forget to run `npm install` from the terminal in your project folder to install all necessary project dependencies..
+Don’t forget to run `npm install` from the terminal in your project folder to install all necessary project dependencies.
