@@ -100,5 +100,4 @@ npm run lint
 - Remember to export your Express app at the end of `server.js` with `export default app;`
 - The database filename should be passed as an argument when running the server.
 
-## Author
-- [Waltertaya](https://github.com/waltertaya)
+
