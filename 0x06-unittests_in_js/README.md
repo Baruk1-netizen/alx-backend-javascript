@@ -98,6 +98,4 @@ By the end of this project, you should be able to:
 - [Request](https://www.npmjs.com/package/request)
 - [How to Test NodeJS Apps using Mocha, Chai and SinonJS](https://www.sitepoint.com/unit-test-nodejs-using-mocha-chai-sinon/)
 
-## Author
 
-- [waltertaya](https://www.github.com/waltertaya)
